@@ -1,0 +1,105 @@
+body {
+	background: #FFFFFF url(../img/inside_bg.png) repeat-x;
+}
+
+#header_text {
+	padding: 8px 0 0 15px;
+}
+
+input[type=text], input[type=password], select {
+	font-size: 22px;
+	border-color: 1px solid #000000;
+}
+
+select {
+	font-size: 14px;
+	height: 36px;
+	padding-top: 5px;
+	border-color: 1px solid #000000;
+}
+
+div.input {
+	float: left;
+}
+
+div.input label {
+	float: left;
+	padding: 8px 10px 0 0;
+	min-width: 90px;
+}
+
+div.form_label {
+	float: left;
+	padding: 8px 10px 0 0;
+	min-width: 90px;
+}
+
+div.form_field {
+	float: left;
+}
+
+div.form_note {
+	font-size: 14px;
+	color: #666666;
+}
+
+div.form_note a {
+	color: #005E77;
+}
+
+.add_offer_note {
+	padding: 28px 0 0 20px;
+}
+
+div.rounded_box_top {
+	background: url(../img/rounded_box_top.png) no-repeat;
+	width: 570px;
+	height: 10px;
+}
+div.rounded_box_middle {
+	background: url(../img/rounded_box_bg.png) repeat-y;
+	width: 570px;
+	padding: 0 10px 0 10px;
+}
+div.rounded_box_bottom {
+	background: url(../img/rounded_box_bottom.png) no-repeat;
+	width: 570px;
+	height: 9px;
+}
+
+div.rounded_color_top {
+	background: url(../img/rounded_color_top.png) no-repeat;
+	width: 569px;
+	height: 16px;
+}
+div.rounded_color_middle {
+	background: url(../img/rounded_color_bg.png) repeat-y;
+	width: 569px;
+	padding: 0 10px 0 10px;
+}
+div.rounded_color_bottom {
+	background: url(../img/rounded_color_bottom.png) no-repeat;
+	width: 569px;
+	height: 15px;
+}
+
+div.push_number {
+	font-size: 36px;
+	margin-right: 10px;                                     
+	font-weight: bold;
+}
+div.push_text {
+	font-size: 12px;
+	padding-top: 7px;
+}
+.faded {
+	filter:alpha(opacity=35);
+	-moz-opacity:0.35;
+	-khtml-opacity: 0.35;
+	opacity: 0.35;
+}
+
+div.error-message {
+	clear: both;
+	color: #FF0000;
+}

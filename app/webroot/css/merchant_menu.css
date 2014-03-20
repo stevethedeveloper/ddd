@@ -1,0 +1,25 @@
+div#merchant_menu_title {
+	font-size: 24px;
+	font-weight: bold;
+	padding: 0 0 0 10px;
+}
+
+div#merchant_menu a {
+	display: block;
+	color: #000000;
+	cursor: pointer;
+	background: url(../img/merchant_menu/bg_off.png) no-repeat;
+	width: 262px;
+	height: 35px;
+	padding: 15px 0 0 10px;
+}
+
+div#merchant_menu a:hover {
+	text-decoration: none;
+	background: url(../img/merchant_menu/bg_on.png) no-repeat;
+}
+
+div#merchant_menu a.mm_on {
+	text-decoration: none;
+	background: url(../img/merchant_menu/bg_on.png) no-repeat;
+}

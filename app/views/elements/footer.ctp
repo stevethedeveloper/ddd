@@ -1,0 +1,1 @@
+<div align="center"><?=$html->link('Home', '/')?>&nbsp;&nbsp;&nbsp;&nbsp;<?=$html->link('Terms and Conditions', '/businesses/show_terms')?>&nbsp;&nbsp;&nbsp;&nbsp;<?=$html->link('Privacy Policy', '/businesses/show_privacy')?>&nbsp;&nbsp;&nbsp;&nbsp;<?=$html->link('Contact Us', '/businesses/contact')?></div>
