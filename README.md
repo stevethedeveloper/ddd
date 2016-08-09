@@ -1,3 +1,4 @@
+# Duck duck Deal
 This project is for a site that supported a mobile app.
 
 It was created using a previous version of CakePHP.
